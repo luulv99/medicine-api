@@ -1,2 +1,0 @@
-# medicine-api
-MEDICINE API
